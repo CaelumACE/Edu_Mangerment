@@ -1,0 +1,20 @@
+.content{
+   
+    margin-top:0px;
+    width: 100%;
+    height: 1960px;
+    overflow-y:auto;
+}
+
+.accordion{
+    float: left;
+    background-color: #85A9C9;
+    overflow:hidden;
+}
+.diapoContainer{
+    height: 1960px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #B3D2E6;
+}
